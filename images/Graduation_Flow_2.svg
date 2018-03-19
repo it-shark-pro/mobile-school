@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 550 210" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path id="r" d="m444.46 377.14h-1.8v44.91h1.8v-44.91z"/>
+<path id="h" d="m443.72 420.59v1.46h13.69v-1.46h-13.69z"/>
+<path id="c" d="m443.72 396.12v1.47h13.69v-1.47h-13.69z"/>
+<text id="q" transform="translate(-71.001 5.7096)" x="532.49" y="383.91" font-family="Open Sans" font-size="9" xml:space="preserve">
+   <tspan x="532.49" dy="0em">RD Lab</tspan>
+  </text>
+<text id="b" transform="translate(-70.705 6.1806)" x="532.2" y="407.91" font-family="Open Sans" font-size="9" xml:space="preserve">
+   <tspan x="532.2" dy="0em">Preprod</tspan>
+  </text>
+<text id="s" transform="translate(47.683 30.08)" x="88.95" y="353.74" font-family="Open Sans" font-size="12" xml:space="preserve">
+   <tspan x="88.95" dy="0em">Start</tspan>
+  </text>
+<path id="m" d="m150.21 368.9h367.5l-5.3-6.77 2.06-2.62 7.35 9.39h0.33v0.43l1.23 1.56-0.6 0.77 0.6 0.77-8.91 11.39-2.06-2.63 6.01-7.67h-368.21v7.62h-3.62v-19.24h3.62v7z"/>
+<path id="l" d="m261.66 370.79c0 4.01-3.25 7.27-7.26 7.27s-7.26-3.26-7.26-7.27 3.25-7.26 7.26-7.26 7.26 3.25 7.26 7.26z"/>
+<path id="g" d="m255.13 297.37h-1.46v68.28h1.46v-68.28z"/>
+<text id="j" transform="translate(111.42 -168.94)" x="115.58" y="445.56" font-size="12" xml:space="preserve">
+   <tspan x="115.58" dy="0em">Feedback</tspan>
+  </text>
+<path id="a" d="m312.23 332.83c0 10.44-8.48 18.92-18.92 18.92s-18.92-8.48-18.92-18.92 8.48-18.92 18.92-18.92 18.92 8.48 18.92 18.92z"/>
+<path id="f" d="m292.72 313.94l0.9-0.76 3.86 4.6-0.9 0.76-3.86-4.6z"/>
+<path id="p" d="m296.74 309.27l0.9 0.76-3.86 4.6-0.9-0.76 3.86-4.6z"/>
+<path id="n" d="m292.13 310.91h1.18v6.01h-1.18v-6.01z"/>
+<text id="k" transform="translate(125.3 -167.73)" x="39.54" y="486.08" font-size="8" xml:space="preserve">
+   <tspan x="39.54" dy="0em">Make Graduation</tspan>
+   <tspan x="39.54" dy="1.2em">Project</tspan>
+  </text>
+<text id="e" transform="translate(123.22 -177.12)" x="200.93" y="496.13" font-size="8" xml:space="preserve">
+   <tspan x="200.93" dy="0em">Improvements</tspan>
+   <tspan x="200.93" dy="1.2em">Working on feedbacks</tspan>
+  </text>
+<path id="o" d="m450.99 370.79c0 4.01-3.26 7.27-7.27 7.27-4 0-7.26-3.26-7.26-7.27s3.26-7.26 7.26-7.26c4.01 0 7.27 3.25 7.27 7.26z"/>
+<path id="i" d="m444.46 297.37h-1.47v68.28h1.47v-68.28z"/>
+<text id="d" transform="translate(118.59 -146.21)" x="299.29" y="423.33" font-size="12" xml:space="preserve">
+   <tspan x="299.29" dy="0em">Interview</tspan>
+  </text>
+</defs>
+<g>
+<title>Layer 1</title>
+<g stroke="null">
+<g stroke="null">
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#r"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#h"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#c"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-148.271114" fill="#2c4049" stroke="null" xlink:href="#q"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-149.019546" fill="#2c4049" stroke="null" xlink:href="#b"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-151.264843" fill="#bd3a3c" stroke="null" xlink:href="#s"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#2c4049" stroke="null" xlink:href="#m"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#l"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#g"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-143.78052" fill="#bd3a3c" stroke="null" xlink:href="#j"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3b" fill-opacity="0" xlink:href="#a"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill-opacity="0" stroke="#bd3a3c" xlink:href="#a"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#f"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#p"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#n"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-147.522681" fill="#2c4049" stroke="null" xlink:href="#k"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-147.522681" fill="#2c4049" stroke="null" xlink:href="#e"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#o"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-158.749166" fill="#bd3a3c" stroke="null" xlink:href="#i"/>
+<use transform="matrix(1.4027 0 0 1.4027 -187.02 -166.44)" y="-143.78052" fill="#bd3a3c" stroke="null" xlink:href="#d"/>
+</g>
+</g>
+</g>
+</svg>
