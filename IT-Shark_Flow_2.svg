@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 640 140" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<text id="m" transform="translate(-70.918 -3.9009)" x="88.95" y="353.74" font-size="12" xml:space="preserve">
+   <tspan x="88.95" dy="0em">Start</tspan>
+  </text>
+<path id="i" d="m33.61 334.92h570.83l-8.23-6.77 3.19-2.62 11.42 9.39h0.52v0.43l1.9 1.56-0.93 0.77 0.93 0.77-13.84 11.39-3.19-2.63 9.33-7.67h-571.93v7.61h-5.62v-19.23h5.62v7z"/>
+<path id="f" d="m563.19 328.04h5.71v19h-5.71v-19z"/>
+<path id="s" d="m391.36 337.54c0 4-3.25 7.26-7.26 7.26s-7.27-3.26-7.27-7.26c0-4.01 3.26-7.27 7.27-7.27s7.26 3.26 7.26 7.27z"/>
+<path id="k" d="m384.83 264.11h-1.47v68.29h1.47v-68.29z"/>
+<text id="d" transform="translate(-82.569 -8.5)" x="437.36" y="253.61" font-size="12" xml:space="preserve">
+   <tspan x="437.36" dy="0em">Advanced</tspan>
+  </text>
+<path id="q" d="m261.58 337.54c0 4-3.25 7.26-7.26 7.26s-7.27-3.26-7.27-7.26c0-4.01 3.26-7.27 7.27-7.27s7.26 3.26 7.26 7.27z"/>
+<path id="c" d="m255.05 264.11h-1.47v68.29h1.47v-68.29z"/>
+<text id="e" transform="translate(-82.669 -9.1131)" x="300.74" y="253.61" font-size="12" xml:space="preserve">
+   <tspan x="300.74" dy="0em">Intermediate</tspan>
+  </text>
+<path id="b" d="m136.47 337.54c0 4-3.25 7.26-7.26 7.26s-7.27-3.26-7.27-7.26c0-4.01 3.26-7.27 7.27-7.27s7.26 3.26 7.26 7.27z"/>
+<path id="u" d="m129.94 263.5h-1.47v68.28h1.47v-68.28z"/>
+<text id="t" transform="translate(-61.967 -1.4931)" x="172.28" y="245.99" font-size="12" xml:space="preserve">
+   <tspan x="172.28" dy="0em">Novice</tspan>
+  </text>
+<path id="a" d="m438.45 300.58c0 10.44-8.47 18.92-18.92 18.92-10.44 0-18.92-8.48-18.92-18.92 0-10.45 8.48-18.92 18.92-18.92 10.45 0 18.92 8.47 18.92 18.92z"/>
+<path id="v" d="m418.95 281.68l0.9-0.76 3.86 4.61-0.9 0.75-3.86-4.6z"/>
+<path id="g" d="m422.96 277.01l0.91 0.76-3.87 4.6-0.9-0.75 3.86-4.61z"/>
+<path id="o" d="m418.36 278.65h1.17v6.01h-1.17v-6.01z"/>
+<text id="l" transform="translate(-8.7992 -28.427)" x="592.86" y="337.68" font-size="9" font-style="italic" font-weight="400" xml:space="preserve">
+   <tspan x="592.86" dy="0em">M, Maturity</tspan>
+  </text>
+<text id="r" transform="translate(-76.052 88.037)" x="219.07" y="186.72" font-size="8" xml:space="preserve">
+   <tspan x="219.07" dy="0em">Basic topics</tspan>
+   <tspan x="219.07" dy="1.2em">Assignments</tspan>
+   <tspan x="219.07" dy="1.2em">Home tasks</tspan>
+   <tspan x="219.07" dy="1.2em">Practice projects</tspan>
+  </text>
+<text id="p" transform="translate(-175.78 124.71)" x="216.89" y="162.04" font-size="8" xml:space="preserve">
+   <tspan x="216.89" dy="0em">Computer science</tspan>
+   <tspan x="216.89" dy="1.2em">English</tspan>
+  </text>
+<text id="h" transform="translate(125.32 93.311)" x="322.13" y="187.44" font-size="8" xml:space="preserve">
+   <tspan x="322.13" dy="0em">Advanced topics</tspan>
+   <tspan x="322.13" dy="1.2em">Labs projects</tspan>
+   <tspan x="322.13" dy="1.2em">Participation in community</tspan>
+  </text>
+<text id="n" transform="translate(80.462 108.89)" x="189.31" y="159.86" font-size="8" xml:space="preserve">
+   <tspan x="189.31" dy="0em">Intermediate topics</tspan>
+   <tspan x="189.31" dy="1.2em">Tutorials</tspan>
+   <tspan x="189.31" dy="1.2em">Home tasks</tspan>
+   <tspan x="189.31" dy="1.2em">Practice projects</tspan>
+   <tspan x="189.31" dy="1.2em">Participation in community</tspan>
+  </text>
+<text id="j" transform="translate(-40.52 -14.701)" x="555.84" y="364.54" font-size="12" xml:space="preserve">
+   <tspan x="555.84" dy="0em">Graduation project</tspan>
+  </text>
+</defs>
+<g>
+<title>Layer 1</title>
+<use x="-3" y="-220.5" fill="#bd3a3c" xlink:href="#m"/>
+<use x="-3" y="-228" fill="#2c4049" xlink:href="#i"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#f"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#s"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#k"/>
+<use x="-3" y="-220.5" fill="#bd3a3c" xlink:href="#d"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#q"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#c"/>
+<use x="-3" y="-220.5" fill="#bd3a3c" xlink:href="#e"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#b"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#u"/>
+<use x="-3" y="-220.5" fill="#bd3a3c" xlink:href="#t"/>
+<use x="-3" y="-228" fill="#bd3a3b" fill-opacity="0" xlink:href="#a"/>
+<use x="-3" y="-228" fill-opacity="0" stroke="#bd3a3c" xlink:href="#a"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#v"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#g"/>
+<use x="-3" y="-228" fill="#bd3a3c" xlink:href="#o"/>
+<use x="-3" y="-220.5" fill="#bd3a3c" xlink:href="#l"/>
+<g stroke="null">
+<use transform="matrix(1.0669 0 0 1.0669 -8.8405 -.5943)" x="-3.47059" y="-217.87651" fill="#2c4049" stroke="null" xlink:href="#r"/>
+</g>
+<g stroke="null">
+<use transform="matrix(1.0731 0 0 1.0731 -2.784 -3.7253)" x="-3" y="-221.01074" fill="#2c4049" stroke="null" xlink:href="#p"/>
+</g>
+<g stroke="null">
+<use transform="matrix(1.1314 0 0 1.1314 -58.292 -6.8611)" x="-3" y="-220.5" fill="#2c4049" stroke="null" xlink:href="#h"/>
+</g>
+<g stroke="null">
+<use transform="matrix(1.0763 0 0 1.0763 -26.297 -3.0479)" x="-3" y="-220.5" fill="#2c4049" stroke="null" xlink:href="#n"/>
+</g>
+<use x="-3" y="-220.5" fill="#bd3a3c" xlink:href="#j"/>
+</g>
+</svg>
