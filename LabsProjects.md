@@ -17,5 +17,7 @@ AllCurrency | Простое приложение для отображения 
 
 >// продолжение следует...
 
+Нужны подробности? Можно спросить у авторов в нашем канале в Slack.
+
 ---
 [![Лицензия Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) IT Shark Community
