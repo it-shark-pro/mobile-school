@@ -65,3 +65,6 @@ Graduation Project - Ваш выпускной проект, который Вы
 &nbsp;
 
 Есть идеи по развитию или просто хотите исправить ошибку? Вы можете [написать нам](https://github.com/it-shark-pro/mobile-school/issues/new)!
+
+---
+[![Лицензия Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) IT Shark Community
