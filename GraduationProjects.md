@@ -63,7 +63,7 @@
 
 ## Chess (Шахматы)
 
-<p align="center"><img src="images/Chess.png" width="667"></p>
+<p align="center"><img src="images/Chess.png" width="800"></p>
 
 Игра в шахматы для двоих (на одном устройстве).  
 
