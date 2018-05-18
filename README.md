@@ -8,7 +8,7 @@
 
 Процесс обучения разделен на 3 уровня обучения: [Novice](#novice-уровень), [Intermediate](#intermediate-уровень), [Advanced](#advanced-уровень). На каждом из уровней есть список активностей, которые Вы можете делать (а можете и не делать :smile:), для того, чтобы поднять Ваш уровень.
 
-<img src="images/IT-Shark_Flow_2.svg?sanitize=true">
+<p align="center"><img src="images/IT-Shark_Flow.png" width="880"></p>
 
 ## Novice уровень
 
@@ -44,7 +44,7 @@
 
 Graduation Project - Ваш выпускной проект, который Вы готовы показать нам, для получения фидбека. На основании него будет принято решение о приглашении Вас на интервью, по результатам которого будет принято решение о приглашении Вас на дальнейшее обучение.
 
-<img src="images/Graduation_Flow_2.svg?sanitize=true" width="600">
+<p align="center"><img src="images/Graduation_Flow.png" width="880"></p>
 
 Кто не может (или не хочет) придумывать идею для своих pet проектов, может выбрать одну из списка.
 
