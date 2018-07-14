@@ -40,39 +40,44 @@
 - Создание мобильных приложений для закрепления полученных знаний
 - Участие в жизни сообщества и помощь в его развитии
 
-## Graduation Project
+## Общение
 
-Graduation Project - Ваш выпускной проект, который Вы готовы показать нам, для получения отзыва. На основании него будет принято решение о приглашении Вас на интервью, по результатам которого будет принято решение о приглашении Вас на дальнейшее обучение.
+Вы можете пообщаться с нами и другими разработчиками в Slack, чтобы задать интересующие вас вопросы по обучению, задачам и проектам.
 
-<p align="center"><img src="images/Graduation_Flow.png" width="880"></p>
+Подсключайтесь к itsharkpro на Slack: https://goo.gl/zbm4NG
+Присоединяйтесь к каналу #mobile
 
-Кто не может (или не хочет) придумывать идею для своих проектов, может выбрать одну из списка.
-
-**Список идей для проектов:**
-- [Labs проекты](LabsProjects.md)
-- [Graduation проекты](GraduationProjects.md)
-
-## Платформы
+## Информация о материалах по платформам
 
 **IOS** - для желающих погрузиться в платформу iOS.
 - [Материалы для изучения](https://github.com/it-shark-pro/mobile-ios)
 - [Рекомендованный путь изучения по уровням](https://github.com/it-shark-pro/mobile-ios/blob/master/learning-path.md)
 - [Стартовое приложение CityMap](https://github.com/it-shark-pro/mobile-citymap-ios)
 
-[**ANDROID**](https://github.com/it-shark-pro/mobile-android) - для желающих погрузиться в платформу Android.
+**ANDROID** - для желающих погрузиться в платформу Android.
 - [Материалы для изучения](https://github.com/it-shark-pro/mobile-android)
 - [Рекомендованный путь изучения по уровням](https://github.com/it-shark-pro/mobile-android/blob/master/learning-path.md)
 - [Стартовое приложение CityMap](https://github.com/it-shark-pro/mobile-citymap-android)
 
-[**UWP**](https://github.com/it-shark-pro/mobile-uwp) - для желающих погрузиться в Universal Windows Platform.
+**UWP** - для желающих погрузиться в Universal Windows Platform.
 - [Материалы для изучения](https://github.com/it-shark-pro/mobile-uwp)
 - [Рекомендованный путь изучения по уровням](https://github.com/it-shark-pro/mobile-uwp/blob/master/learning-path.md)
 - [Стартовое приложение CityMap](https://github.com/it-shark-pro/mobile-citymap-uwp)
 
-[**XAMARIN**](https://github.com/it-shark-pro/mobile-xamarin) - для желающих погрузиться в кроссплатформенную разработку на Xamarin для Android и iOS.
+**XAMARIN** - для желающих погрузиться в кроссплатформенную разработку на Xamarin для Android и iOS.
 - [Материалы для изучения](https://github.com/it-shark-pro/mobile-xamarin)
 - [Рекомендованный путь изучения по уровням](https://github.com/it-shark-pro/mobile-xamarin/blob/master/learning-path.md)
 - [Стартовое приложение CityMap](https://github.com/it-shark-pro/mobile-citymap-xamarin)
+
+## Labs & Graduation Project
+
+Graduation Project - Ваш выпускной проект, который Вы готовы показать нам, для получения отзыва. На основании него будет принято решение о приглашении Вас на интервью, по результатам которого будет принято решение о приглашении Вас на дальнейшее обучение или на работу.
+
+<p align="center"><img src="images/Graduation_Flow.png" width="880"></p>
+
+Вы можете брать любые свои идеи или предложенные из списка ниже:
+- [Labs проекты](LabsProjects.md)
+- [Graduation проекты](GraduationProjects.md)
 
 &nbsp;
 
