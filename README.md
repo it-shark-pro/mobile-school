@@ -54,13 +54,25 @@ Graduation Project - Ваш выпускной проект, который Вы
 
 ## Платформы
 
-[**IOS**](https://github.com/it-shark-pro/mobile-ios) - для желающих погрузиться в платформу iOS.
+**IOS** - для желающих погрузиться в платформу iOS.
+- [Материалы для изучения](https://github.com/it-shark-pro/mobile-ios)
+- [Рекомендованный путь изучения по уровням](https://github.com/it-shark-pro/mobile-ios/blob/master/learning-path.md)
+- [Стартовое приложение CityMap](https://github.com/it-shark-pro/mobile-citymap-ios)
 
 [**ANDROID**](https://github.com/it-shark-pro/mobile-android) - для желающих погрузиться в платформу Android.
+- [Материалы для изучения](https://github.com/it-shark-pro/mobile-android)
+- [Рекомендованный путь изучения по уровням](https://github.com/it-shark-pro/mobile-android/blob/master/learning-path.md)
+- [Стартовое приложение CityMap](https://github.com/it-shark-pro/mobile-citymap-android)
 
 [**UWP**](https://github.com/it-shark-pro/mobile-uwp) - для желающих погрузиться в Universal Windows Platform.
+- [Материалы для изучения](https://github.com/it-shark-pro/mobile-uwp)
+- [Рекомендованный путь изучения по уровням](https://github.com/it-shark-pro/mobile-uwp/blob/master/learning-path.md)
+- [Стартовое приложение CityMap](https://github.com/it-shark-pro/mobile-citymap-uwp)
 
 [**XAMARIN**](https://github.com/it-shark-pro/mobile-xamarin) - для желающих погрузиться в кроссплатформенную разработку на Xamarin для Android и iOS.
+- [Материалы для изучения](https://github.com/it-shark-pro/mobile-xamarin)
+- [Рекомендованный путь изучения по уровням](https://github.com/it-shark-pro/mobile-xamarin/blob/master/learning-path.md)
+- [Стартовое приложение CityMap](https://github.com/it-shark-pro/mobile-citymap-xamarin)
 
 &nbsp;
 
